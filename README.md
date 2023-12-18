@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ILYAS</h1>
-<h3 align="center">A passionate frontend developer from RUSSIA</h3>
+<h3 align="center">A passionate frontend developer</h3>
 # 💫 About Me:
 🌱 I’m currently learning  courses Frontend developer<br>
 
